@@ -4,3 +4,4 @@ Garrett West
 Brendan Lamishaw
 Noah Yeo
 Anna Bonatz
+Manoel Tamraz
